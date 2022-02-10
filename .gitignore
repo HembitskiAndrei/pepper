@@ -12,9 +12,3 @@ node_modules/
 
 .env
 .eslintignore
-
-# Build
-/npm-debug.log
-
-yarn-error.log
-/build/
